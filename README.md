@@ -1,6 +1,6 @@
 ﻿# Projekt_Selenium_sklep_Pinokio
 
-# Opisy przypadków testowych
+# 1. Opisy przypadków testowych:
 
   ## Scenariusz testowy:
 Złożenie zamówienia w ilości przekraczającej maksymalną liczbę dla jednego rodzaju produktu oraz złożenie zamówienia przez użytkownika wybierającego kraj dostawy inny niż Polska. 
@@ -53,11 +53,11 @@ Nie można wybrać wybranej formy płatności.
 Nie można wybrać wybranej formy dostawy.”
 2.	Produkty nie zostały zakupione.
 
-# Kod do testów
+# 2. Kod do testów:
 
 [Link do pliku z kodem do testów](https://github.com/martynabrodka/Projekt_Selenium/blob/main/Projekt_Selenium_sklep_Pinokio.py)
 
-## Uwagi końcowe
+# 3. Uwagi końcowe:
 
 Automatyzacja przypadków testowych powiodła się. Test może być wrażliwy na zmianę struktury strony z powodu użycia lokalizatorów XPATH, które odnoszą się do kolejności elementów na stronie oraz z powodu zmian zachodzących na stronie.
 
